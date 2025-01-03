@@ -1,0 +1,12 @@
+Name: Aisha Ibrahim
+Matric Number: PAU/2020/1234
+Department: Computer Science
+
+Name: Bello Usman
+Matric Number: PAU/2021/5678
+Department: Economics
+
+Name: Chioma Okoro
+Matric Number: PAU/2022/9012
+Department: Law
+
